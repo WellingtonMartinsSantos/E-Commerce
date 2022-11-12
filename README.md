@@ -1,6 +1,6 @@
-#** Dashboard Análise do E-Commerce**
+# Dashboard Análise do E-Commerce
 
-![Imagem1](Imagem_Análise Financeira.png)
+![Imagem_Análise Financeira.png](Imagem_Análise Financeira.png)
 
 # Introdução do problema
 
