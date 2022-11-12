@@ -1,6 +1,6 @@
 # Dashboard Análise do E-Commerce
 
-![Dash_Análise_de_vendas](Dash_análise_vendas.png)
+![Dash_Análise_de_vendas](Imagem_Análise Financeira.png)
 
 # Introdução do problema
 
